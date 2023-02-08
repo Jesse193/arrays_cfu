@@ -17,3 +17,10 @@ puts change
 /unshift adds an element to the beggining of an array/
 booleans.unshift(false)
 puts booleans
+
+
+/index positions/
+
+/the 0 index refers to the first element in an array/
+puts grocery_list[0]
+
