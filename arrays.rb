@@ -24,3 +24,7 @@ puts booleans
 /the 0 index refers to the first element in an array/
 puts grocery_list[0]
 
+/you can remove a specific element from an array/
+/This is done like so/
+grocery_list.slice!(1)
+puts grocery_list
